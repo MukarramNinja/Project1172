@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+#Score {
+    font-size: 20px;
+    margin-left: 10px;    
+}
+#Timer {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+#FutureSketch {
+    color: red;
+}
